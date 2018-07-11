@@ -1,6 +1,6 @@
-title: Stack Problems
+title: Stack Problem
 description: My Personal Stack Problems
-author: Agus Makmun
+author: BJ
 github: https://github.com/agusmakmun
 about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
 disqus_shortname: stackproblems
@@ -19,13 +19,13 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "#"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "#"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/dgyal95"
 
 share:
   twitter_username: agusmakmun6
